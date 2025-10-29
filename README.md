@@ -1,4 +1,4 @@
-README
+
                                              User Registration and Validation
 This project is a user registration system built with HTML, CSS, JavaScript, PHP, and MySQL (XAMPP). It allows users to register their information securely and stores it in a database.
 
